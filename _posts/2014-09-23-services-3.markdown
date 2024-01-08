@@ -2,7 +2,11 @@
 layout: default
 img: phones.png
 category: Services
-title: Coming Soon!
+title: Premium
 description: |
 ---
-Coming Soon!
+Access to premium commands!
+Access to premium text channels within our discord server!
+Much more!
+Join now for only $1 a month!
+https://www.patreon.com/checkout/FluxMod?rid=22014157
