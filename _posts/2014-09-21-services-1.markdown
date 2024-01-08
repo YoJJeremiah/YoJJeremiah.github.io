@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Custom Discord Bot
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Introducing our Custom Discord Bot Package – Elevate your server experience with a personalized touch! For a one-time payment starting at just $5, you'll receive a bespoke Discord bot equipped with essential commands to enhance your server dynamics. Want to take it a step further? Opt for our advanced customization options during the payment process to unlock even more features and functionalities. Please note that additional enhancements may incur extra charges, ensuring you have the flexibility to tailor your bot to suit your unique community needs. Upgrade your Discord server today with our affordable and customizable bot solution!
+​
+For more info or to purchase this server please join our discord server! https://discord.gg/hnkRQsaDqW once in our discord make your way to the tickets channel and create a purchase a service ticket!
