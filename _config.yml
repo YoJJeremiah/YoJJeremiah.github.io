@@ -27,5 +27,5 @@ social:
     url: https://discord.gg/hnkRQsaDqW
   - title: github
     url: https://github.com/YoJJeremiah
-  - title: linkedin
-    url: ""
+  - title: Invite me!
+    url: "https://discord.com/api/oauth2/authorize?client_id=1084185836700057672&permissions=1101878471895&scope=bot%20applications.commands"
